@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buyit-app/static/css/main.f855e6bc.css",
+    "main.js": "/buyit-app/static/js/main.f56d776e.js",
+    "static/js/453.6245525a.chunk.js": "/buyit-app/static/js/453.6245525a.chunk.js",
+    "static/media/logo.svg": "/buyit-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/buyit-app/index.html",
+    "main.f855e6bc.css.map": "/buyit-app/static/css/main.f855e6bc.css.map",
+    "main.f56d776e.js.map": "/buyit-app/static/js/main.f56d776e.js.map",
+    "453.6245525a.chunk.js.map": "/buyit-app/static/js/453.6245525a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f56d776e.js"
+  ]
+}
