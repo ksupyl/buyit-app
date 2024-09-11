@@ -1,0 +1,25 @@
+.side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.side--title {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.side--text {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+}
+
+@media (max-width: 786px) {
+    .side {
+        align-items: center;
+        text-align: center;
+    }
+}
