@@ -20,7 +20,7 @@ export const cardArray = [
     {
         id: 2,
         title: "ThunderDrive 6000 Battery",
-        price: '$5,500 $',
+        price: '5,500 $',
         address: 'Columbia, SC',
         date: 'September 5, 8:03 p.m.',
         img: '/buyit-app/img/card_img_2.png',
