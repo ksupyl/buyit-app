@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/buyit-app/static/css/main.0643059d.css",
-    "main.js": "/buyit-app/static/js/main.27d9be6d.js",
+    "main.css": "/buyit-app/static/css/main.55bca2ea.css",
+    "main.js": "/buyit-app/static/js/main.68834364.js",
     "index.html": "/buyit-app/index.html",
-    "main.0643059d.css.map": "/buyit-app/static/css/main.0643059d.css.map",
-    "main.27d9be6d.js.map": "/buyit-app/static/js/main.27d9be6d.js.map"
+    "main.55bca2ea.css.map": "/buyit-app/static/css/main.55bca2ea.css.map",
+    "main.68834364.js.map": "/buyit-app/static/js/main.68834364.js.map"
   },
   "entrypoints": [
-    "static/css/main.0643059d.css",
-    "static/js/main.27d9be6d.js"
+    "static/css/main.55bca2ea.css",
+    "static/js/main.68834364.js"
   ]
 }
